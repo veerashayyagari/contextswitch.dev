@@ -1,14 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Context Switch`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Veerash Ayyagari`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Experiences of an Engineer building internet-scale distributed systems on cloud.`,
+    siteUrl: `https://contextswitch.dev/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `veerashayyagari`,
     },
   },
   plugins: [
